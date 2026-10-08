@@ -4,6 +4,7 @@ import java.util.Scanner;
     /**
      * Work carried out by: Gonçalo Melo Marques 74277
      * 2026/10/09
+     * sou lindo
      */
 
 public class Main {
